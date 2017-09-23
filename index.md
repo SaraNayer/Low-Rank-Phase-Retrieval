@@ -22,7 +22,7 @@ MathJax.Hub.Queue(function() {
 
 
 
-script type="text/x-mathjax-config">
+<script type="text/x-mathjax-config">
 		MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
 
 <script type="text/x-mathjax-config">
