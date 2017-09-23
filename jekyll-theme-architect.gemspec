@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.name          = "jekyll-theme-architect"
   s.version       = "0.1.0"
   s.license       = "CC0-1.0"
-  s.authors       = ["Jason Long", "GitHub, Inc."]
+  s.authors       = ["Sara Nayer", "GitHub, Inc."]
   s.email         = ["opensource+jekyll-theme-architect@github.com"]
   s.homepage      = "https://github.com/pages-themes/architect"
   s.summary       = "Architect is a Jekyll theme for GitHub Pages"
