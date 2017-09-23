@@ -1,8 +1,3 @@
----
-layout: default
----
-
-
 <style TYPE="text/css">
 code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}
 </style>
@@ -23,6 +18,14 @@ MathJax.Hub.Queue(function() {
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
  then `$x^2$` or `$$x^2$$` will render as expected :-)
+
+
+---
+layout: default
+---
+
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
