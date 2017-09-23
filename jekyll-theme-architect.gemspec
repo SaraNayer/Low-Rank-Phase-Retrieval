@@ -5,9 +5,9 @@ Gem::Specification.new do |s|
   s.version       = "0.1.0"
   s.license       = "CC0-1.0"
   s.authors       = ["Sara Nayer", "GitHub, Inc."]
-  s.email         = ["opensource+jekyll-theme-architect@github.com"]
+  s.email         = ["sarana@iastate.edu"]
   s.homepage      = "https://github.com/pages-themes/architect"
-  s.summary       = "Architect is a Jekyll theme for GitHub Pages"
+  s.summary       = "Low Rank Phase Retreival"
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
     f.match(%r{^((_includes|_layouts|_sass|assets)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)
