@@ -32,7 +32,7 @@ script type="text/x-mathjax-config">
 		src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML">
 </script>
 
- then `$x^2$` or `$$x^2$$` will render as expected :-)
+ then `$x^2$` or `$x^2-\labda+4$` will render as expected :-)
 
 
 ---
