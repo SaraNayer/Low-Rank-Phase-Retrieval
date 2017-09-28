@@ -40,7 +40,7 @@ layout: default
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-[http://www.ece.iastate.edu/~sarana/index.html](Web-page).
+[Web-Page](http://www.ece.iastate.edu/~sarana/index.html).
 
 There should be whitespace between paragraphs.
 
@@ -57,7 +57,7 @@ $ \boldsymbol{X} := [ \boldsymbol{x}_1,\boldsymbol{x}_2, \dots, \boldsymbol{x}_q
 has rank $r \ll \min(n,q)$.
 For each column $ \boldsymbol{x}_k $ of $ \boldsymbol{X} $, we observe a set of $m$ measurements of the form
 
-$ \boldsymbol{y}_{i,k} $ := $| \boldsymbol{a}_{i,k} $ \boldsymbol{x}_k |^2 $ ,  $i = 1, 2, \dots m,  k=1,2, \dots, q $.
+$ \boldsymbol{y}_{i,k} $ := $| \boldsymbol{a}_{i,k} \boldsymbol{x}_k |^2 $ ,  $i = 1, 2, \dots m,  k=1,2, \dots, q $.
 
 
 The measurement vectors, $ \boldsymbol{a}_{i,k}$, are mutually independent.
