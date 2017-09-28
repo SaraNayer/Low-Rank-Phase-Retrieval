@@ -42,9 +42,9 @@ MathJax.Hub.Queue(function() {
 
 [Web-Page](http://www.ece.iastate.edu/~sarana/index.html).
 
-There should be whitespace between paragraphs.
+<!-- There should be whitespace between paragraphs. -->
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<!-- There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
 # [](#header-1)Problem Formulation
 Low rank phase retrieval (LRPR) problem, refers to recovering a low-rank matrix $\boldsymbol{X}$ from magnitude-only (phaseless) measurements of random linear projections of its
