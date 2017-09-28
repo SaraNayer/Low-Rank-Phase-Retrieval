@@ -40,7 +40,9 @@ MathJax.Hub.Queue(function() {
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-[Web-Page](http://www.ece.iastate.edu/~sarana/index.html).
+[Web-Page](http://www.ece.iastate.edu/~sarana/index.html).  <!-- ### Small image --> ![](https://assets-cdn.github.com/images/icons/emoji/octocat.png) 
+
+<!-- ### Large image -->
 
 <!-- There should be whitespace between paragraphs. -->
 
@@ -163,11 +165,6 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 <!--   - level 2 item -->
 <!-- - level 1 item -->
 
-<!-- ### Small image -->
-
- ![](https://assets-cdn.github.com/images/icons/emoji/octocat.png) 
-
-<!-- ### Large image -->
 
 <!-- ![](https://guides.github.com/activities/hello-world/branching.png) -->
 
