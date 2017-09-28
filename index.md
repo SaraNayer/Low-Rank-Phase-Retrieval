@@ -103,7 +103,7 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 <br/>
 <br/>
  <!-- Recovered Frames 1 and 104 of various methods from $m=3n$ phaseless masked Fourier (CDP) measurements -->
-<P>
+
 
 
 
