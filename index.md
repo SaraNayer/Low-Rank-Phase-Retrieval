@@ -105,11 +105,6 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 <br/>
 <br/>
 
-<!-- ### [](#header-3)Header 3 -->
-
-
-
-
  ### [](#header-3) Parameters of Experiement 
  
 * Size of Input Video :72 * 72 * 105 
@@ -117,7 +112,6 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 * Number of Cameras : 49 
 * Type of Video : real natural video, not been low-rankified 
 * Assumption of Rank : 25
-
 <!-- *   This is an unordered list following a header. -->
 <!-- *   This is an unordered list following a header. -->
 <!-- *   This is an unordered list following a header. -->
