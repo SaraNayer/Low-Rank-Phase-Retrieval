@@ -56,10 +56,10 @@ $\boldsymbol{x}_1,\boldsymbol{x}_2, \dots, \boldsymbol{x}_q$, such that the $n \
 \
 has rank $r \ll \min(n,q)$.
 For each column $ **x**_k $ of $ **X** $, we observe a set of $m$ measurements of the form
-<--! \begin{eqnarray} -->
+
 $ **y**_{i,k}:= |**a**_{i,k}{}'**x**_k|^2, \ i = 1, 2, \dots m, \ k=1,2, \dots, q.
 \label{exact_mod} $
-<--!\end{eqnarray}-->
+
 The measurement vectors, $ **a**_{i,k}$, are mutually independent.
 
 We develop two iterative algorithms for solving LRPR problem.
