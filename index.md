@@ -50,7 +50,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 Low rank phase retrieval (LRPR) problem, refers to recovering a low-rank matrix $\boldsymbol{X}$ from magnitude-only (phaseless) measurements of random linear projections of its
 columns.
 It means that, instead of a single vector $\boldsymbol{x}$ (like general phase retrieval problems), we consider a set of $q$ vectors,
-$\boldsymbol{x}_1,\boldsymbol{x}_2, \dots, \boldsymbol{x}_q$, such that the $n \times q$ matrix,
+$ \boldsymbol{x}_1,\boldsymbol{x}_2, \dots, \boldsymbol{x}_q $, such that the $n \times q$ matrix,
 \
 \boldsymbol{X}:=[\boldsymbol{x}_1,\boldsymbol{x}_2, \dots, \boldsymbol{x}_q],
 \
