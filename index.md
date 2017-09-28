@@ -73,7 +73,7 @@ For more information you can see the <a href="LRPR_revise_tsp_2.pdf">paper
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### [](#header-3)Header 3
+<!-- ### [](#header-3)Header 3 -->
 
 ```js
 // Javascript code with syntax highlighting.
