@@ -71,9 +71,33 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 
 ## [](#header-2)Video Results
 
-> This is a blockquote following a header.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+<!-- > When something is important enough, you do it even if the odds are not in your favor.-->
+
+
+<h2> Original Videos</h2>
+
+<p> 
+<embed src="GrayVid_Bac.mp4" autostart="false" height="144" width="244" />
+<embed src="GrayVid_Dog.mp4" autostart="false" height="144" width="244" />
+<embed src="GrayVid_Plane.mp4" autostart="false" height="144" width="244" />
+<embed src="GrayVid_Mouse.mp4" autostart="false" height="144" width="244" />
+</p>
+<br/>
+<br/>
+<P>
+<h2> Results of LRPR2, Using $m=3n$ CDP Measurments of Original Videos Assuming Rank is $25$</h2>
+<embed src="AMT_BacOrigR25L3.mp4" autostart="false" height="144" width="244" />
+<embed src="AMT_DogOrigR25L3.mp4" autostart="false" height="144" width="244" />
+<embed src="AMT_PlaneOrigR25L3.mp4" autostart="false" height="144" width="244" />
+<embed src="AMT_MouseOrigR25L3.mp4" autostart="false" height="144" width="244" />
+</p>
+<br/>
+<br/>
+<h2> Recovered Frames 1 and 104 of various methods from $m=3n$ phaseless masked Fourier (CDP) measurements</h2>
+
+
+
 
 <!-- ### [](#header-3)Header 3 -->
 
