@@ -28,7 +28,7 @@ MathJax.Hub.Queue(function() {
 		src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML">
 </script>
 
- then `$x^2$` or `$x^2-\lambda+4$` will render as expected :-)
+ <!-- then `$x^2$` or `$x^2-\lambda+4$` will render as expected :-) -->
 
 
 ---
@@ -57,7 +57,7 @@ $ \boldsymbol{X} := [ \boldsymbol{x}_1,\boldsymbol{x}_2, \dots, \boldsymbol{x}_q
 has rank $r \ll \min(n,q)$.
 For each column $ \boldsymbol{x}_k $ of $ \boldsymbol{X} $, we observe a set of $m$ measurements of the form
 
-$ \boldsymbol{y}_{i,k} = \boldsymbol{a}_{i,k}  \boldsymbol{x}_k $, $ i = 1, 2, \dots m,  k=1,2, \dots, q $.
+$ \boldsymbol{y}_{i,k} = | \boldsymbol{a}_{i,k}  \boldsymbol{x}_k |^2 $, $ i = 1, 2, \dots m,  k=1,2, \dots, q $.
 
 
 The measurement vectors, $ \boldsymbol{a}_{i,k}$, are mutually independent.
