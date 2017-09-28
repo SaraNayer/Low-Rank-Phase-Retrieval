@@ -124,7 +124,7 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 <!-- end -->
 <!-- ``` -->
 
- #### [](#header-4)Parameters of Experiement 
+ ### [](#header-3)Parameters of Experiement 
  
 >
 
@@ -143,7 +143,7 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 <!-- 2.  This is an ordered list following a header. -->
 <!-- 3.  This is an ordered list following a header. -->
 
-### [](#header-3)Normalized Error of Each Algorithms
+### [](#header-4)Normalized Error of Each Algorithms
 
 |f(rate of unders sample)| Holloway,J. et al's | LRPR-ptycho |
 |:-----------------------|:--------------------|:------------|
