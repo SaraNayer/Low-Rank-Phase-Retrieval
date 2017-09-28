@@ -100,8 +100,7 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 <!-- <embed src="AMT_PlaneOrigR25L3.mp4" autostart="false" height="144" width="244" /> -->
 <!-- <embed src="AMT_MouseOrigR25L3.mp4" autostart="false" height="144" width="244" /> -->
 </p>
-<br/>
-<br/>
+
  <!-- Recovered Frames 1 and 104 of various methods from $m=3n$ phaseless masked Fourier (CDP) measurements -->
 
 <!-- ### [](#header-3)Header 3 -->
