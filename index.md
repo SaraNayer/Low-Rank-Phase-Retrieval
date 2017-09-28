@@ -103,20 +103,20 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 
 <!-- ### [](#header-3)Header 3 -->
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+<!-- ```js  -->
+<!-- // Javascript code with syntax highlighting. -->
+<!-- var fun = function lang(l) { -->
+<!--   dateformat.i18n = require('./lang/' + l) -->
+<!--   return true; -->
+<!-- } -->
+<!-- ``` -->
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+<!-- ```ruby -->
+<!-- # Ruby code with syntax highlighting -->
+<!-- GitHubPages::Dependencies.gems.each do |gem, version| -->
+<!--   s.add_dependency(gem, "= #{version}") -->
+<!-- end -->
+<!-- ``` -->
 
 <!-- #### [](#header-4)Header 4 -->
 
