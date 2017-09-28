@@ -75,7 +75,7 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 <!-- > When something is important enough, you do it even if the odds are not in your favor.-->
 
 
-<h2> Original Video and recovered video of Holloway,J. et al's Algorithm for f = 0.5 and 0.25 </h2>
+<h2> Original Video and recovered video of Holloway,J. et al's Algorithm for f = 0.5 and 0.25  </h2>
 
 <p> 
 <embed src="Original.mp4" autostart="false" height="144" width="244" />
@@ -94,7 +94,7 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 </p>
 <br/>
 <br/>
-<h2> Recovered Frames 1 and 104 of various methods from $m=3n$ phaseless masked Fourier (CDP) measurements</h2>
+ Recovered Frames 1 and 104 of various methods from $m=3n$ phaseless masked Fourier (CDP) measurements
 
 
 
