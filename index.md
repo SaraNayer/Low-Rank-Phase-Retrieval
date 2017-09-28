@@ -79,7 +79,7 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 
 <p> 
 <embed src="Original.mp4" autostart="false" height="144" width="244" />
-<embed src="GrayVid_Dog.mp4" autostart="false" height="144" width="244" />
+<embed src="Asif0.25.mp4" autostart="false" height="144" width="244" />
 <embed src="GrayVid_Plane.mp4" autostart="false" height="144" width="244" />
 <embed src="GrayVid_Mouse.mp4" autostart="false" height="144" width="244" />
 </p>
