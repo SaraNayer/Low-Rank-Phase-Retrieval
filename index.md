@@ -140,39 +140,39 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 |         0.25           |       0.3500        |   0.0604    |
 |         0.05           |       0.5545        |   0.0625    |
 
-### There's a horizontal rule below this.
+ <!-- ### There's a horizontal rule below this.-->
 
-* * *
+<!-- * * * -->
 
-### Here is an unordered list:
+<!-- ### Here is an unordered list: -->
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+<!-- *   Item foo -->
+<!-- *   Item bar -->
+<!-- *   Item baz -->
+<!-- *   Item zip -->
 
-### And an ordered list:
+<!-- ### And an ordered list:
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+<!-- 1.  Item one -->
+<!-- 1.  Item two --> 
+<!-- 1.  Item three  -->
+<!-- 1.  Item four -->
 
-### And a nested list:
+<!-- ### And a nested list:
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+<!--- level 1 item -->
+ <!-- - level 2 item -->
+ <!-- - level 2 item -->
+ <!--   - level 3 item -->
+  <!--  - level 3 item -->
+<!-- - level 1 item -->
+<!--   - level 2 item -->
+<!--  - level 2 item -->
+ <!--  - level 2 item -->
+<!-- - level 1 item -->
+<!--   - level 2 item -->
+<!--   - level 2 item -->
+<!-- - level 1 item -->
 
 ### Small image
 
