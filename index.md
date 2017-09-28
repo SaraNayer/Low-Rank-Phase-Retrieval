@@ -60,7 +60,7 @@ For each column $ **x**_k $ of $ **X** $, we observe a set of $m$ measurements o
 $ **y**_{i,k}:= |**a**_{i,k}{}'**x**_k|^2, \ i = 1, 2, \dots m, \ k=1,2, \dots, q.
 \label{exact_mod} $
 
-The measurement vectors, $ **a**_{i,k}$, are mutually independent.
+The measurement vectors, $ \boldsymbol{a}_{i,k}$, are mutually independent.
 
 We develop two iterative algorithms for solving LRPR problem.
 Both methods consist of a spectral initialization step followed by an iterative algorithm to maximize the observed data
