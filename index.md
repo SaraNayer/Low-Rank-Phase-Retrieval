@@ -75,10 +75,10 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 <!-- > When something is important enough, you do it even if the odds are not in your favor.-->
 
 
-<h2> Original Videos</h2>
+<h2> Original Video and recovered video of Holloway,J. et al's Algorithm for f = 0.5 and 0.25 </h2>
 
 <p> 
-<embed src="GrayVid_Bac.mp4" autostart="false" height="144" width="244" />
+<embed src="Original.mp4" autostart="false" height="144" width="244" />
 <embed src="GrayVid_Dog.mp4" autostart="false" height="144" width="244" />
 <embed src="GrayVid_Plane.mp4" autostart="false" height="144" width="244" />
 <embed src="GrayVid_Mouse.mp4" autostart="false" height="144" width="244" />
