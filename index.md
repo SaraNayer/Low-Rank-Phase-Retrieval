@@ -96,7 +96,7 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 </p>
 <br/>
 <br/>
- Recovered Frames 1 and 104 of various methods from $m=3n$ phaseless masked Fourier (CDP) measurements
+ <!-- Recovered Frames 1 and 104 of various methods from $m=3n$ phaseless masked Fourier (CDP) measurements -->
 
 
 
@@ -120,24 +120,25 @@ end
 
 <!-- #### [](#header-4)Header 4 -->
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+<!-- *   This is an unordered list following a header. -->
+<!-- *   This is an unordered list following a header. -->
+<!-- *   This is an unordered list following a header. -->
 
-##### [](#header-5)Header 5
+<!-- ##### [](#header-5)Header 5
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+<!-- 1.  This is an ordered list following a header. --> 
+<!-- 2.  This is an ordered list following a header. -->
+<!-- 3.  This is an ordered list following a header. -->
 
-###### [](#header-6)Header 6
+###### [](#header-6)Normalized Error of Each Algorithms
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+|f(rate of unders sample)| Holloway,J. et al's | LRPR-ptycho |
+|:-----------------------|:--------------------|:------------|
+|          1             |       0.0580        |   0.0595    |
+|         0.75           |       0.1377        |   0.0592    |
+|         0.50           |       0.2240        |   0.0596    |
+|         0.25           |       0.3500        |   0.0604    |
+|         0.05           |       0.5545        |   0.0625    |
 
 ### There's a horizontal rule below this.
 
