@@ -67,7 +67,7 @@ likelihood. We obtain sample complexity bounds for our proposed initialization a
 true $\boldsymbol{X}$. When the rank is low enough, these bounds are significantly lower than what existing single vector phase retrieval
 algorithms need. Via extensive experiments, we show that the same is also true for the proposed complete algorithms.
 For more information you can see the <a href="LRPR_revise_tsp_2.pdf">paper
-## [](#header-2)Header 2
+## [](#header-2)Video Results
 
 > This is a blockquote following a header.
 >
