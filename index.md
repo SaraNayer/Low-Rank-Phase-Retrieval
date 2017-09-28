@@ -104,9 +104,6 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 <br/>
  <!-- Recovered Frames 1 and 104 of various methods from $m=3n$ phaseless masked Fourier (CDP) measurements -->
 
-
-
-
 <!-- ### [](#header-3)Header 3 -->
 
 <!-- ```js  -->
@@ -124,6 +121,7 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 <!-- end -->
 <!-- ``` -->
 <!-- ppppuuuuhhhhh -->
+
  ### [](#header-3)Parameters of Experiement 
 
 * Size of Input Video :72 * 72 * 105 
