@@ -107,7 +107,7 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 
 <h3> ----------- <h3>
 
- ### [](#header-3)Parameters of Experiement 
+ ### [](#header-4)Parameters of Experiement 
  
 * Size of Input Video :72 * 72 * 105 
 * Diameter of Apetrue : 20 
@@ -124,7 +124,7 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 <!-- 2.  This is an ordered list following a header. -->
 <!-- 3.  This is an ordered list following a header. -->
 
-### [](#header-4)Normalized Error of Each Algorithms
+### [](#header-5)Normalized Error of Each Algorithms
 
 |f(rate of unders sample)| Holloway,J. et al's | LRPR-ptycho |
 |:-----------------------|:--------------------|:------------|
