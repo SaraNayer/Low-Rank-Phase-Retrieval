@@ -68,8 +68,8 @@ $ k=1,2, \dots, q $.
 
 The measurement vectors, $ \boldsymbol{a}_{i,k}$, are mutually independent.
 
-We develop two iterative algorithms for solving LRPR problem.
-Both methods consist of a spectral initialization step followed by an iterative algorithm to maximize the observed data
+<!-- We develop two iterative algorithms for solving LRPR problem. -->
+Algorithm for solving LRPR consists of a spectral initialization step followed by an iterative algorithm to maximize the observed data
 likelihood. We obtain sample complexity bounds for our proposed initialization approach to provide a good approximation of the
 true $\boldsymbol{X}$. When the rank is low enough, these bounds are significantly lower than what existing single vector phase retrieval
 algorithms need. Via extensive experiments, we show that the same is also true for the proposed complete algorithms.
@@ -104,7 +104,8 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 </p>
 <br/>
 <br/>
-<
+
+<h3> Parameters of Experiement    <h3>
 
  ### [](#header-3)Parameters of Experiement 
  
