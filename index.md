@@ -174,7 +174,7 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 <!--   - level 2 item -->
 <!-- - level 1 item -->
 
-### Small image
+<!-- ### Small image -->
 
 ![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
