@@ -57,7 +57,8 @@ $ \boldsymbol{X} := [ \boldsymbol{x}_1,\boldsymbol{x}_2, \dots, \boldsymbol{x}_q
 has rank $r \ll \min(n,q)$.
 For each column $ \boldsymbol{x}_k $ of $ \boldsymbol{X} $, we observe a set of $m$ measurements of the form
 
-$ \boldsymbol{y}_{i,k} = \boldsymbol{a}_{i,k}  \boldsymbol{x}_k^2 $, $i = 1, 2, \dots m,  k=1,2, \dots, q $.
+$ \boldsymbol{y}_{i,k} = \boldsymbol{a}_{i,k}  \boldsymbol{x}_k^2 $,
+$ i = 1, 2, \dots m,  k=1,2, \dots, q $.
 
 The measurement vectors, $ \boldsymbol{a}_{i,k}$, are mutually independent.
 
@@ -67,6 +68,7 @@ likelihood. We obtain sample complexity bounds for our proposed initialization a
 true $\boldsymbol{X}$. When the rank is low enough, these bounds are significantly lower than what existing single vector phase retrieval
 algorithms need. Via extensive experiments, we show that the same is also true for the proposed complete algorithms.
 For more information you can see the <a href="LRPR_revise_tsp_2.pdf">paper
+
 ## [](#header-2)Video Results
 
 > This is a blockquote following a header.
