@@ -85,7 +85,8 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 
 <p> 
 <embed src="Orig.mp4" autostart="false" height="144" width="244" />
-
+<br/>
+<br/>
 <h2> Recovered video of Holloway,J. et al's Algorithm for f = 0.25 and 0.5 respectively from left </h2>
 <embed src="Holloway.25.mp4" autostart="false" height="144" width="244" />
 <embed src="Holloway.5.mp4" autostart="false" height="144" width="244" />
@@ -100,26 +101,12 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 <!-- <embed src="AMT_PlaneOrigR25L3.mp4" autostart="false" height="144" width="244" /> -->
 <!-- <embed src="AMT_MouseOrigR25L3.mp4" autostart="false" height="144" width="244" /> -->
 </p>
-
- <!-- Recovered Frames 1 and 104 of various methods from $m=3n$ phaseless masked Fourier (CDP) measurements -->
+<br/>
+<br/>
 
 <!-- ### [](#header-3)Header 3 -->
 
-<!-- ```js  -->
-<!-- // Javascript code with syntax highlighting. -->
-<!-- var fun = function lang(l) { -->
-<!--   dateformat.i18n = require('./lang/' + l) -->
-<!--   return true; -->
-<!-- } -->
-<!-- ``` -->
 
-<!-- ```ruby -->
-<!-- # Ruby code with syntax highlighting -->
-<!-- GitHubPages::Dependencies.gems.each do |gem, version| -->
-<!--   s.add_dependency(gem, "= #{version}") -->
-<!-- end -->
-<!-- ``` -->
-<!-- ppppuuuuhhhhh -->
 
 
  ### [](#header-3) Parameters of Experiement 
