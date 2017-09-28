@@ -63,7 +63,7 @@ $ \boldsymbol{y}_{i,k}  :=  $
 
  $ \|     \boldsymbol{a}_{i,k}{}'  \boldsymbol{x}_k    \|^2  $,
 
-$ i = 1, 2, \dots m , $ ,
+$ i = 1, 2, \dots m  $, 
 $ k=1,2, \dots, q . $
 
 The measurement vectors, $ \boldsymbol{a}_{i,k}$, are mutually independent.
