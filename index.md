@@ -69,7 +69,7 @@ true $\boldsymbol{X}$. When the rank is low enough, these bounds are significant
 algorithms need. Via extensive experiments, we show that the same is also true for the proposed complete algorithms.
 For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.pdf">paper
 
-## [](#header-2)Video Results
+## [](#header-1)Video Results
 
 >
 <!-- > When something is important enough, you do it even if the odds are not in your favor.-->
