@@ -61,6 +61,13 @@ For each column $\boldsymbol{x}_k$ of $\boldsymbol{X}$, we observe a set of $m$ 
 \label{exact_mod}
 \end{eqnarray}
 The measurement vectors, $\boldsymbol{a}_{i,k}$, are mutually independent.
+
+We develop two iterative algorithms for solving LRPR problem.
+Both methods consist of a spectral initialization step followed by an iterative algorithm to maximize the observed data
+likelihood. We obtain sample complexity bounds for our proposed initialization approach to provide a good approximation of the
+true $\boldsymbol{X}$. When the rank is low enough, these bounds are significantly lower than what existing single vector phase retrieval
+algorithms need. Via extensive experiments, we show that the same is also true for the proposed complete algorithms.
+For more information you can see the <a href="LRPR_revise_tsp_2.pdf">paper
 ## [](#header-2)Header 2
 
 > This is a blockquote following a header.
