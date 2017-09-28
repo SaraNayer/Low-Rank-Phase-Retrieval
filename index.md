@@ -31,9 +31,9 @@ MathJax.Hub.Queue(function() {
  <!-- then `$x^2$` or `$x^2-\lambda+4$` will render as expected :-) -->
 
 
----
-layout: default
----
+<!-- --- -->
+<!-- layout: default -->
+<!-- --- -->
 
 
 
