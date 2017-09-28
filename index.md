@@ -122,14 +122,15 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 <!-- ``` -->
 <!-- ppppuuuuhhhhh -->
 
- <!-- ### [](#header-3) -->
- ### Parameters of Experiement 
 
+ ### [](#header-3) Parameters of Experiement 
+ 
 * Size of Input Video :72 * 72 * 105 
 * Diameter of Apetrue : 20 
 * Number of Cameras : 49 
 * Type of Video : real natural video, not been low-rankified 
 * Assumption of Rank : 25
+
 <!-- *   This is an unordered list following a header. -->
 <!-- *   This is an unordered list following a header. -->
 <!-- *   This is an unordered list following a header. -->
