@@ -79,20 +79,7 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 >
 <!-- > When something is important enough, you do it even if the odds are not in your favor.-->
 
-
-<h2> Original Videos </h2>
-<p> 
-<embed src="Orig.mp4" autostart="false" height="144" width="244" />
-<embed src="Fish.mp4" autostart="false" height="144" width="244" />
-<embed src="Bact.mp4" autostart="false" height="144" width="244" />
-<embed src="SleepingDog3.mp4" autostart="false" height="144" width="244" />
-</p>
-<br/>
-<br/>
-<p>
-
 <h2> Original Videos</h2>
-
 <p> 
 <embed src="Orig.mp4" autostart="false" height="144" width="244" />
 <embed src="Fish.mp4" autostart="false" height="144" width="244" />
@@ -105,6 +92,8 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 <h2> Recovered video of Holloway,J. et al's Algorithm for f = 0.25 and 0.5 respectively from left </h2>
 <embed src="Holloway.25.mp4" autostart="false" height="144" width="244" />
 <embed src="Holloway.5.mp4" autostart="false" height="144" width="244" />
+<embed src="Bact.mp4" autostart="false" height="144" width="244" />
+<embed src="SleepingDog3.mp4" autostart="false" height="144" width="244" />
 <!-- <embed src="GrayVid_Mouse.mp4" autostart="false" height="144" width="244" /> -->
 </p>
 <br/>
@@ -113,6 +102,8 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 <h2> Results of LRPR with their initialization, for f = 0.25 and 0.5 respectively from left </h2>
 <embed src="LRPR.25.mp4" autostart="false" height="144" width="244" />
 <embed src="LRPRtych.5.mp4" autostart="false" height="144" width="244" />
+<embed src="Bact.mp4" autostart="false" height="144" width="244" />
+<embed src="SleepingDog3.mp4" autostart="false" height="144" width="244" />
 <!-- <embed src="AMT_PlaneOrigR25L3.mp4" autostart="false" height="144" width="244" /> -->
 <!-- <embed src="AMT_MouseOrigR25L3.mp4" autostart="false" height="144" width="244" /> -->
 </p>
