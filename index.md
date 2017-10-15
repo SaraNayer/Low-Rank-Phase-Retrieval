@@ -93,7 +93,7 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 <embed src="Holloway.25.mp4" autostart="false" height="144" width="244" />
 <embed src="FishH.25.mp4" autostart="false" height="144" width="244" />
 <embed src="BactH.25.mp4" autostart="false" height="144" width="244" />
-<embed src="SleepingDog3.mp4" autostart="false" height="144" width="244" />
+<embed src="SleepingDog3H.25.mp4" autostart="false" height="144" width="244" />
 <!-- <embed src="GrayVid_Mouse.mp4" autostart="false" height="144" width="244" /> -->
 </p>
 <br/>
@@ -103,7 +103,7 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 <embed src="LRPR.25.mp4" autostart="false" height="144" width="244" />
 <embed src="LRPRtych.5.mp4" autostart="false" height="144" width="244" />
 <embed src="Bact.mp4" autostart="false" height="144" width="244" />
-<embed src="SleepingDog3.mp4" autostart="false" height="144" width="244" />
+<embed src="SleepingDog3LR.25.mp4" autostart="false" height="144" width="244" />
 <!-- <embed src="AMT_PlaneOrigR25L3.mp4" autostart="false" height="144" width="244" /> -->
 <!-- <embed src="AMT_MouseOrigR25L3.mp4" autostart="false" height="144" width="244" /> -->
 </p>
