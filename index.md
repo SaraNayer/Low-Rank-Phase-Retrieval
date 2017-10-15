@@ -81,10 +81,10 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 
 <h2> Original Videos</h2>
 <p> 
-<embed src="Orig.mp4" autostart="false" height="142" width="244" />
-<embed src="Fish.mp4" autostart="false" height="142" width="244" />
-<embed src="Bact.mp4" autostart="false" height="142" width="244" />
-<embed src="SleepingDog3.mp4" autostart="false" height="142" width="244" />
+<embed src="Orig.mp4" autostart="false" height="145" width="244" />
+<embed src="Fish.mp4" autostart="false" height="145" width="244" />
+<embed src="Bact.mp4" autostart="false" height="145" width="244" />
+<embed src="SleepingDog3.mp4" autostart="false" height="145" width="244" />
 </p>
 <br/>
 <br/>
