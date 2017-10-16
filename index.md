@@ -118,7 +118,7 @@ For more information you can see the <a href="https://arxiv.org/pdf/1608.04141.p
 <!-- <embed src="AMT_MouseOrigR25L3.mp4" autostart="false" height="144" width="244" /> -->
 </p>
 <h2> Results of LRPR with their initialization, for f = 0.5 </h2>
-<embed src="LRPR.5.mp4" autostart="false" height="144" width="244" />
+<embed src="LRPRtych.5.mp4" autostart="false" height="144" width="244" />
 <embed src="FishLR.5.mp4" autostart="false" height="144" width="244" />
 <embed src="BactLR.5.mp4" autostart="false" height="144" width="244" />
 <embed src="SleepingDog3LR.5.mp4" autostart="false" height="144" width="244" />
